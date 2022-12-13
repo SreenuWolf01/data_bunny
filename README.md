@@ -1,2 +1,2 @@
 # data_bunny
-data science purpose
+data science purpose only
